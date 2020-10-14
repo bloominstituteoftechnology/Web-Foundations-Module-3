@@ -24,15 +24,19 @@ Before you open the project, one thing to note. A LOT of code has already been w
 1. In `index.html`, replace "Your Name" with your actual name.
 
 2. In `index.css`, on line 53 what do each of the numbers represent for the margin?
+
    [Write Your Answer Here]
 
 3. In `index.css`, which selector is more specific, line 106 OR line 114? Why?
+
    [Write Your Answer Here]
 
 4. In `index.css`, on line 2, what is this CSS property doing?
+
    [Write Your Answer Here]
 
 5. In `index.css`, on which line is the total price of the binoculars (`index.html` line 57) being styled?
+
    [Write Your Answer Here]
 
 ### Try it out
