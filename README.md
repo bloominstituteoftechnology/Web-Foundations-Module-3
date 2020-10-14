@@ -1,6 +1,6 @@
 # Lambda Foundations
 
-## Module 3 - CSS - Box Model
+## Module 3 - CSS - Foundations
 
 ### Module 3 Project
 
