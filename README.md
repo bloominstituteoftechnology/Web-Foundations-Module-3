@@ -45,6 +45,8 @@ For this try it out exercise you will be focusing your attention on `index.css` 
 
 [Link to Guide Screenshot](Project/assets/GuideScreenshot.png)
 
+You can also find this Screenshot in the assets folder in this project.
+
 ### Go further
 
 In this section, we'd like you to take your learning into your own hands! It is an important skill to be able to find the answers you are seeking on the internet while working on a software project. In today's case, Google will be your friend. We've highlighted some potential Google search phrases, but try to think of how you would word your search on your own.
