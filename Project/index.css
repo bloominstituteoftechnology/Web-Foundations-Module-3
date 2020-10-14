@@ -86,7 +86,6 @@ nav {
 .sub-nav-item {
   color: #9d9d9d;
   font-size: 18px;
-  border-left: 1px solid rgba(107, 101, 95, 0.2);
 }
 
 .sub-nav-item:last-child {
@@ -103,7 +102,6 @@ nav {
 }
 
 .order-card .card-top {
-  padding: 15px 20px;
   background-color: #f2f2f2;
   display: flex;
   align-items: center;
@@ -155,14 +153,11 @@ nav {
 }
 .status-bar {
   width: 100%;
-  padding: 10px 20px;
   display: flex;
   align-items: center;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.14);
 }
 
 .status-bar .status-icon {
-  background: #52b382;
   width: 35px;
   height: 35px;
   border-radius: 3px;
@@ -185,7 +180,6 @@ nav {
 }
 
 .item-area {
-  padding: 30px 20px;
   display: flex;
   align-items: center;
   width: 100%;
@@ -223,7 +217,6 @@ nav {
 .card-right {
   width: 34%;
   height: 400px;
-  border-left: 1px solid rgba(0, 0, 0, 0.14);
   padding: 6px 24px;
 }
 
@@ -257,10 +250,36 @@ button {
 }
 
 /* ---------------- YOUR EXERCISE BEGINS BELOW THIS LINE ---------------- */
-
+/* ---------------- DO NOT WRITE ANY CODE ABOVE THIS LINE ---------------- */
 /* 
   Step 1: 
   For the first part of the exercise, select all of the items of the class 
-  "sub-nav-item" (line 30-37 index.html) and give them the proper spacing 
-  according to the Guide Screenshot 
+  "sub-nav-item" (line 30-37 index.html). Give them a border as it appears in 
+  the Guide Screenshot. The border should be 1px wide and this color: rgba(107, 101, 95, 0.2)
+  Then, give them the proper spacing according to the Guide Screenshot.
 */
+
+/* 
+  Step 2: 
+  Fix the spacing for the top of the order card, the status bar, and the 
+  item area. Select each of those elements separately. 
+*/
+
+/* 
+  Step 3: 
+  Add the correct borders to the interior of the order card. Note: the border 
+  should ONLY be 1px wide in all places. Use this value as the color: rgba(0, 0, 0, 0.14)
+*/
+
+/* 
+  Step 4: 
+  Using a more specific selector, change the background color of the following element to #52b382
+  To study the element more closely, you can find it on line 55 of index.html
+*/
+
+/* DO NOT CHANGE THE FOLLOWING CODE: */
+div .status-bar div {
+  background: red;
+}
+
+/* Write your code on the next line: */

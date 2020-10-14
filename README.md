@@ -4,12 +4,11 @@
 
 ### Module 3 Project
 
-Today we learned about the core languages of every webpage, HTML and CSS. In this project, we are going to practice both of those languages.
-In this project, we are going to mimic the Lambda School Alumni page (you can find that here: https://lambdaschool.com/profiles). We want you to create your own profile. Don't worry this won't be made public, it's just a fun exercise for now. One day you will have your own profile on that page.
+Today we learned about more about styling in CSS, we also learned about specificity and inheritance. CSS can be a tricky language to master because there are always multiple ways to achieve the same result. While learning it's best to focus on one technique at a time. In this project, we are going to work on our skills by adding the proper spacing to elements. We will be building a mock-order history page for an imaginary web store.
 
 ### Getting Started
 
-In order to get started you will need to download this project as a .zip file and open it in VS Code (like Module 1). Here are the instructions to do so:
+In order to get started you will need to download this project as a .zip file and open it in VS Code (like Modules 1 and 2). Here are the instructions to do so:
 
 1. Click on the Green button that says Code in the upper right-hand side of the screen.
 2. You will see an option at the bottom called Download Zip.
@@ -38,22 +37,34 @@ Before you open the project, one thing to note. A LOT of code has already been w
 
 ### Try it out
 
-For this try it out exercise you will be focusing your attention on `index.css` and making sure the page is properlly spaced, and borders look correct. You can find instuctions on where to start on line 260. You can also use the following image as a guide. One note: there are many ways to acheive the same style in CSS. Often times spacing can be the most difficult part of writing CSS. Don't get overwhelmed thinking about the entire project as a whole. This is a fantastic opportunity to practice breaking down a large problem into much smaller manageable bits. So, take your time and focus on one peice at a time.
+For this try it out exercise you will be focusing your attention on `index.css` and making sure the page is properly spaced, and borders look correct. You can find instructions on where to start on line 261. You can also use the following image as a guide. One note: there are many ways to achieve the same style in CSS. Often spacing can be the most difficult part of writing CSS. Don't get overwhelmed thinking about the entire project as a whole. This is a fantastic opportunity to practice breaking down a large problem into much smaller manageable bits. So, take your time and focus on one piece at a time.
 
 [Link to Guide Screenshot]("./assets/GuideScreenshot.png)
 
 ### Go further
 
-In this section, we'd like you to take your learning into your own hands! It is an important skill to be able to find the answers you are seeking on the internet while working on a software project. In today's case, we've helped you out a bit. Below we've listed a few popular resources when researching Web Development.
+In this section, we'd like you to take your learning into your own hands! It is an important skill to be able to find the answers you are seeking on the internet while working on a software project. In today's case, Google will be your friend. We've highlighted some potential Google search phrases, but try to think of how you would word your search on your own.
+
+1. Pseudo classes and selectors. CSS allows us to write styling based on interaction from the user. Research `different CSS pseudo-classes` and utilize one in your CSS.
+
+Hint: if you are having trouble finding information, try searching for the `hover` pseudoselector. You can use a pseudo selector to change any style of the element, `color` and `background` are popular choices.
+
+2. Different color types. CSS allows us to use many different values. Research colors and write the names of three different `CSS color pattern values` below:
+
+[Write Your Answer Here]
 
 ### In Your Own Words
 
 An impactful technique in learning something new is attempting to reiterate the concepts you just learned from memory in your own words. This allows you to highlight areas you are not comfortable with and could study on a little more. We'll start this exercise off pretty simply. Just remember that this is merely an exercise, there are no right or wrong answers here. Please answer the following question in your own words
 
-1. Name the 4 parts of the box model and what each means.
+1. Name the 4 parts of the box model and describe what each means.
+
+[Write Your Answer Here]
+
+2. What does the acronym 'CSS' mean?
 
 [Write Your Answer Here]
 
 ### Complete the Assignment
 
-Once you are completed with all of the above exercises, find the Folder `Web-Foundations-Module-2` in your Finder or My Computer. Right-click on the folder and select "Compress Web-Foundations-Module-2". This will create a .zip file. Upload this .zip file to Canvas the same way you uploaded your .txt file yesterday.
+Once you are completed with all of the above exercises, find the Folder `Web-Foundations-Module-2` in your Finder or My Computer. Right-click on the folder and select "Compress Web-Foundations-Module-3". This will create a .zip file. Upload this .zip file to Canvas the same way you uploaded your .txt file yesterday.
