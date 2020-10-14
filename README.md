@@ -43,7 +43,7 @@ Before you open the project, one thing to note. A LOT of code has already been w
 
 For this try it out exercise you will be focusing your attention on `index.css` and making sure the page is properly spaced, and borders look correct. You can find instructions on where to start on line 261. You can also use the following image as a guide. One note: there are many ways to achieve the same style in CSS. Often spacing can be the most difficult part of writing CSS. Don't get overwhelmed thinking about the entire project as a whole. This is a fantastic opportunity to practice breaking down a large problem into much smaller manageable bits. So, take your time and focus on one piece at a time.
 
-[Link to Guide Screenshot](assets/GuideScreenshot.png)
+[Link to Guide Screenshot](Project/assets/GuideScreenshot.png)
 
 ### Go further
 
