@@ -27,7 +27,7 @@ Before you open the project, one thing to note. A LOT of code has already been w
 
    [Write Your Answer Here]
 
-3. In `index.css`, which selector is more specific, line 106 OR line 114? Why?
+3. In `index.css`, which selector is more specific, line 111 OR line 116? Why?
 
    [Write Your Answer Here]
 
